@@ -14,3 +14,7 @@ Repositório com os exercícios realizados durante o curso de Engenharia de Dado
 ### **1. Conhecendo Pandas**
 
 Alguns comandos básicos para conhecer a biblioteca Pandas. [link](https://github.com/ariana-caetano/data-engineering/blob/9381d5d85c3f34def0555e952d42e6c7993b79da/Python_Pandas.ipynb)
+
+### **2. ETL-Marketing Campaign**
+
+Realização de um ETL sobre dados de Marketing Campaign [link](https://github.com/ariana-caetano/data-engineering/blob/b7cdc845e4c35a2cd75c8a6eac5948076c0171c0/Exercicio_marketing_campaign.ipynb)
