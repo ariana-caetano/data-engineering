@@ -23,6 +23,9 @@ Realização de um ETL sobre dados de Marketing Campaign [link](https://github.c
 
 Realização de um ETL sobre dados demo disponibilizados pelo MongoDB [link](https://github.com/ariana-caetano/data-engineering/blob/5978e0c9772c04b796352d13d478e33bb050e68b/BasesDemoMongoDB.ipynb)
 
-### **4. Projeto Aquecimento**
+### **4. Cloud Storage, PySpark, MySQL**
+Acesso a arquivos em bucket, tratamento com PySpark e envio de dados para MySQL [link](https://github.com/ariana-caetano/data-engineering/blob/348736243a748d245988936ab30992ac863dcfe4/ExercicioPySpark_Spotify.ipynb)
+
+### **5. Projeto Aquecimento**
 
 Projeto em dupla de um ETL completo. [link](https://github.com/ariana-caetano/data-engineering/blob/86de0cdbd1aa82abb0ea64496d29d5ae89062342/ProjetoAquecimento_Ariana_Victor.ipynb)
