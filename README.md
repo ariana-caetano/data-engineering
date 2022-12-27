@@ -18,3 +18,7 @@ Alguns comandos básicos para conhecer a biblioteca Pandas. [link](https://githu
 ### **2. ETL-Marketing Campaign**
 
 Realização de um ETL sobre dados de Marketing Campaign [link](https://github.com/ariana-caetano/data-engineering/blob/b7cdc845e4c35a2cd75c8a6eac5948076c0171c0/Exercicio_marketing_campaign.ipynb)
+
+### **3. Python e MongoDB**
+
+Realização de um ETL sobre dados demo disponibilizados pelo MongoDB [link](https://github.com/ariana-caetano/data-engineering/blob/5978e0c9772c04b796352d13d478e33bb050e68b/BasesDemoMongoDB.ipynb)
