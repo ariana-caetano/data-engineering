@@ -29,3 +29,9 @@ Acesso a arquivos em bucket, tratamento com PySpark e envio de dados para MySQL 
 ### **5. Projeto Aquecimento**
 
 Projeto em dupla de um ETL completo. [link](https://github.com/ariana-caetano/data-engineering/blob/86de0cdbd1aa82abb0ea64496d29d5ae89062342/ProjetoAquecimento_Ariana_Victor.ipynb)
+
+### **6. Acelerando o processamento de dados no Pandas**
+
+Dicas de como melhorar o desempenho de operações com dataframes em Pandas. [link](https://github.com/ariana-caetano/data-engineering/blob/04209c85124ef3deae34b26dc9fda65401871249/AcelerandoProcessamentoDados.ipynb)
+
+
