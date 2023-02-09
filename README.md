@@ -32,6 +32,6 @@ Projeto em dupla de um ETL completo. [link](https://github.com/ariana-caetano/da
 
 ### **6. Acelerando o processamento de dados no Pandas**
 
-Dicas de como melhorar o desempenho de operações com dataframes em Pandas. [link](https://github.com/ariana-caetano/data-engineering/blob/04209c85124ef3deae34b26dc9fda65401871249/AcelerandoProcessamentoDados.ipynb)
+Dicas de como melhorar o desempenho de operações com dataframes em Pandas. [link](https://github.com/ariana-caetano/data-engineering/blob/1aefd022cdcd55c94c4180e7d40a409d1be66485/AcelerandoProcessamentoDados.ipynb)
 
 
